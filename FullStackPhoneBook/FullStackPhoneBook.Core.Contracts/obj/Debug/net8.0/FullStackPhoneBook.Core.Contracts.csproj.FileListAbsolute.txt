@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\bin\Debug\net8.0\FullStackPhoneBook.Core.Contracts.deps.json
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\bin\Debug\net8.0\FullStackPhoneBook.Core.Contracts.dll
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\bin\Debug\net8.0\FullStackPhoneBook.Core.Contracts.pdb
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\bin\Debug\net8.0\FullStackPhoneBook.Domain.Core.dll
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\bin\Debug\net8.0\FullStackPhoneBook.Domain.Core.pdb
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\FullStackPhoneBook.Core.Contracts.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\FullStackPhoneBook.Core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\FullStackPhoneBook.Core.Contracts.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\FullStackPhoneBook.Core.Contracts.AssemblyInfo.cs
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\FullStackPhoneBook.Core.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\FullStac.6D7F4F20.Up2Date
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\FullStackPhoneBook.Core.Contracts.dll
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\refint\FullStackPhoneBook.Core.Contracts.dll
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\FullStackPhoneBook.Core.Contracts.pdb
+C:\Users\User\Desktop\c# project\FullStackPhoneBook\FullStackPhoneBook.Core.Contracts\obj\Debug\net8.0\ref\FullStackPhoneBook.Core.Contracts.dll
