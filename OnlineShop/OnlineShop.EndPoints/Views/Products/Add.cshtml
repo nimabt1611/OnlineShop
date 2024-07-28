@@ -1,0 +1,29 @@
+﻿@model OnlineShop.EndPoints.Models.Pruduct.AddNewProductViewModel
+
+
+
+<form asp-action="Add" asp-controller="Products" method="post" enctype="multipart/form-data">
+
+	<div class="form_group">
+		<label asp-for="Name"></label>
+		<input type="text" asp-for="Name" class="form-control" maxlength="50" />
+		<span asp-validation-for="Name"></span>
+	</div>
+
+	<div>
+		<h1>our prodect :</h1>
+		
+		<h4>Mobile</h4>
+		<h4>LapTop</h4>
+		<h4>Airpod</h4>
+		<h4>Pc</h4>
+		<h4>Tv</h4>
+		
+
+
+
+	</div>
+	<input type="submit" value="Buy" class="btn btn-primary" />
+
+</form>
+

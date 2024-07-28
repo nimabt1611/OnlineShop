@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|c:\\users\\user\\desktop\\c# project\\onlineshop\\onlineshop.endpoints\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\models\\pruduct\\addnewproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\models\\pruduct\\addnewproductviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\views\\people\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\views\\people\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A163C55-82D0-437C-AB40-51B0729B0054}|OnlineShop.Domain\\OnlineShop.Domain.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A163C55-82D0-437C-AB40-51B0729B0054}|OnlineShop.Domain\\OnlineShop.Domain.csproj|solutionrelative:onlineshop.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\models\\people\\addnewpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\models\\people\\addnewpersonviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\products\\productreopsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\products\\productreopsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\products\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\products\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\people\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\people\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\people\\personconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\people\\personconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\people\\personcategoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\people\\personcategoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\common\\onlineshopcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\common\\onlineshopcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\common\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\common\\onlineshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\common\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\common\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\categorys\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\categorys\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\categorys\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\categorys\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796EC72E-8CE3-42CC-BC47-CC6EF94690FE}|OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.domain.contracts\\products\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796EC72E-8CE3-42CC-BC47-CC6EF94690FE}|OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj|solutionrelative:onlineshop.domain.contracts\\products\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796EC72E-8CE3-42CC-BC47-CC6EF94690FE}|OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.domain.contracts\\people\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796EC72E-8CE3-42CC-BC47-CC6EF94690FE}|OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj|solutionrelative:onlineshop.domain.contracts\\people\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796EC72E-8CE3-42CC-BC47-CC6EF94690FE}|OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.domain.contracts\\common\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796EC72E-8CE3-42CC-BC47-CC6EF94690FE}|OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj|solutionrelative:onlineshop.domain.contracts\\common\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{796EC72E-8CE3-42CC-BC47-CC6EF94690FE}|OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.domain.contracts\\categorys\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796EC72E-8CE3-42CC-BC47-CC6EF94690FE}|OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj|solutionrelative:onlineshop.domain.contracts\\categorys\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A163C55-82D0-437C-AB40-51B0729B0054}|OnlineShop.Domain\\OnlineShop.Domain.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.domain\\categorys\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A163C55-82D0-437C-AB40-51B0729B0054}|OnlineShop.Domain\\OnlineShop.Domain.csproj|solutionrelative:onlineshop.domain\\categorys\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A163C55-82D0-437C-AB40-51B0729B0054}|OnlineShop.Domain\\OnlineShop.Domain.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.domain\\people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A163C55-82D0-437C-AB40-51B0729B0054}|OnlineShop.Domain\\OnlineShop.Domain.csproj|solutionrelative:onlineshop.domain\\people\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.endpoints\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71BC1DB3-15F1-449C-9404-79FDF700097C}|OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj|solutionrelative:onlineshop.endpoints\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\migrations\\20240727233533_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\migrations\\20240727233533_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\onlineshop.infrastracture.dataaccess\\onlineshop.infrastructure.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EBBC05A6-E6B4-4D65-A304-01C6B5413222}|OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj|solutionrelative:onlineshop.infrastracture.dataaccess\\onlineshop.infrastructure.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\desktop\\c# project\\onlineshop\\onlineshop.infrastracture.dataaccess\\people\\perosnconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:onlineshop.infrastracture.dataaccess\\people\\perosnconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\Products\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Domain\\Products\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\Products\\Product.cs",
+              "RelativeToolTip": "OnlineShop.Domain\\Products\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:49:05.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\People\\Add.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Views\\People\\Add.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\People\\Add.cshtml",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Views\\People\\Add.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAYwCkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T00:58:42.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\People\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Views\\People\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\People\\Index.cshtml",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Views\\People\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T02:31:18.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:31:36.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T01:26:03.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:45:42.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Views\\Products\\Add.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Views\\Products\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T03:10:22.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddNewProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Models\\Pruduct\\AddNewProductViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Models\\Pruduct\\AddNewProductViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Models\\Pruduct\\AddNewProductViewModel.cs",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Models\\Pruduct\\AddNewProductViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:48:03.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T03:24:59.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PeopleController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Controllers\\PeopleController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Controllers\\PeopleController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Controllers\\PeopleController.cs",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Controllers\\PeopleController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAkwC4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:47:54.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddNewPersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Models\\People\\AddNewPersonViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Models\\People\\AddNewPersonViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Models\\People\\AddNewPersonViewModel.cs",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Models\\People\\AddNewPersonViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:02:42.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T00:48:41.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Products\\ProductConfig.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\Products\\ProductConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Products\\ProductConfig.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\Products\\ProductConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:41:52.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductReopsitory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Products\\ProductReopsitory.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\Products\\ProductReopsitory.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Products\\ProductReopsitory.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\Products\\ProductReopsitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:41:56.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\People\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\People\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\People\\PersonRepository.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\People\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:41:46.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\People\\PersonConfig.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\People\\PersonConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\People\\PersonConfig.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\People\\PersonConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:41:41.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonCategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\People\\PersonCategoryConfig.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\People\\PersonCategoryConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\People\\PersonCategoryConfig.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\People\\PersonCategoryConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:41:35.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Categorys\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\Categorys\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Categorys\\CategoryRepository.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\Categorys\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:41:08.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Categorys\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\Categorys\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Categorys\\CategoryConfig.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\Categorys\\CategoryConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:40:55.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\Products\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Domain.Contracts\\Products\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\Products\\IProductRepository.cs",
+              "RelativeToolTip": "OnlineShop.Domain.Contracts\\Products\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:40:44.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\People\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Domain.Contracts\\People\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\People\\IPersonRepository.cs",
+              "RelativeToolTip": "OnlineShop.Domain.Contracts\\People\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:40:36.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\Common\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Domain.Contracts\\Common\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\Common\\IBaseRepository.cs",
+              "RelativeToolTip": "OnlineShop.Domain.Contracts\\Common\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:40:29.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Common\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\Common\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Common\\BaseRepository.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\Common\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:43:58.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OnlineShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Common\\OnlineShopContext.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\Common\\OnlineShopContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Common\\OnlineShopContext.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\Common\\OnlineShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:44:43.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OnlineShopContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Common\\OnlineShopContextFactory.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\Common\\OnlineShopContextFactory.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Common\\OnlineShopContextFactory.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\Common\\OnlineShopContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:45:29.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\Categorys\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Domain.Contracts\\Categorys\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\Categorys\\ICategoryRepository.cs",
+              "RelativeToolTip": "OnlineShop.Domain.Contracts\\Categorys\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T02:40:18.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\appsettings.json",
+              "RelativeToolTip": "OnlineShop.EndPoints\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T00:37:21.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\People\\Person.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Domain\\People\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\People\\Person.cs",
+              "RelativeToolTip": "OnlineShop.Domain\\People\\Person.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:52:01.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\Categorys\\Category.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Domain\\Categorys\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\Categorys\\Category.cs",
+              "RelativeToolTip": "OnlineShop.Domain\\Categorys\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T01:39:48.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240727233533_init.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Migrations\\20240727233533_init.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\Migrations\\20240727233533_init.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\Migrations\\20240727233533_init.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\Migrations\\20240727233533_init.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:35:33.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PerosnConfig.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\People\\PerosnConfig.cs",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\People\\PerosnConfig.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\People\\PerosnConfig.cs",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\People\\PerosnConfig.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:34:59.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineShop.EndPoints\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\Program.cs",
+              "RelativeToolTip": "OnlineShop.EndPoints\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:51:42.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "OnlineShop.Infrastructure.DataAccess",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj",
+              "RelativeDocumentMoniker": "OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj*",
+              "RelativeToolTip": "OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-27T22:43:13.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

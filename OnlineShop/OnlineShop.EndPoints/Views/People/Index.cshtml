@@ -1,0 +1,25 @@
+﻿@model List<OnlineShop.Domain.People.Person>
+
+@if (Model != null && Model.Count > 0)
+{
+	<table class="table table-bordered table-striped">
+		<tr>
+			<th>FirstName</th>
+			<th>LastName</th>
+			<th>Email</th>
+			<th>Address</th>
+		</tr>
+
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>@item.FirstName</td>
+				<td>@item.LastName</td>
+				<td>@item.Email</td>
+				<td>@item.Address</td>
+				
+			</tr>
+		}
+	</table>
+
+}

@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\FullStackPhoneBook.EndPoint.Mvc.props" />
-</Project>
