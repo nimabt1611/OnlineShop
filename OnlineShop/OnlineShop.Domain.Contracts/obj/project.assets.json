@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj",
       "projectName": "OnlineShop.Domain.Contracts",
-      "projectPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain.Contracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
             }
           }
         }

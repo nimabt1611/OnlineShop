@@ -7907,11 +7907,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj",
       "projectName": "OnlineShop.EndPoints",
-      "projectPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.EndPoints\\OnlineShop.EndPoints.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.EndPoints\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.EndPoints\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7928,14 +7928,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj"
             },
-            "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain\\OnlineShop.Domain.csproj"
             },
-            "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj"
+            "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Infrastracture.DataAccess\\OnlineShop.Infrastructure.DataAccess.csproj"
             }
           }
         }
@@ -7992,5 +7992,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

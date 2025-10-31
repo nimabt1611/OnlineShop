@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QRCaVxLLeVvGlZtiBSnwO/FmfI/4XP+wFcVp97bf6p9bOdA2LLxHcBLasx1Bkgyh+nG0GlVCiaJv3LcJpcuPSA==",
+  "dgSpecHash": "wLGaB5O1p+U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\c# project\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\New folder\\OnlineShop\\OnlineShop\\OnlineShop.Domain.Contracts\\OnlineShop.Domain.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
